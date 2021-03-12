@@ -1,0 +1,1 @@
+C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.2\conf
